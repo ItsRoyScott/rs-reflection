@@ -2,7 +2,8 @@
 
 Cross-compiler, header-only reflection library with modern C++11 design.
 
-[blah](README.md#type_meta)
+[type_meta](README.md#type_meta)
+[type_name](README.md#type_name)
 
 ## type_meta
 Stores type_traits information for a type.
